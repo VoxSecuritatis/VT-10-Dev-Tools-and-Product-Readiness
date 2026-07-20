@@ -1,0 +1,10 @@
+langgraph
+langchain-openai
+openai
+chromadb
+python-dotenv
+azure-monitor-opentelemetry
+opentelemetry-api
+ipywidgets
+jupyter
+pytest
